@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a367798.css",
+    "main.js": "/static/js/main.0290180b.js",
+    "static/media/card08.jpg": "/static/media/card08.0bfdc2eebf512395e9c7.jpg",
+    "static/media/card05.jpg": "/static/media/card05.e1dbe424b8bb2d941be8.jpg",
+    "static/media/carousel01.jpg": "/static/media/carousel01.61faaf869a151c50d1e3.jpg",
+    "static/media/carousel02.jpg": "/static/media/carousel02.8e674cb275b87092f10f.jpg",
+    "static/media/card02.jpg": "/static/media/card02.f73d5bffb4cee3e335d0.jpg",
+    "static/media/bcg03.jpg": "/static/media/bcg03.6b438d71a8290df479ab.jpg",
+    "static/media/card03.jpg": "/static/media/card03.75edf84a6a1f1eb5ead1.jpg",
+    "static/media/card01.jpg": "/static/media/card01.18351870d2a72d2be804.jpg",
+    "static/media/card06.jpg": "/static/media/card06.77b946a78b94dce2c7af.jpg",
+    "static/media/card07.jpg": "/static/media/card07.fff84ed952227d3dc5f8.jpg",
+    "static/media/card010.jpg": "/static/media/card010.70f9ff531062e2057e47.jpg",
+    "static/media/carousel04.jpg": "/static/media/carousel04.755862dfb240bd1aa7f7.jpg",
+    "static/media/card04.jpg": "/static/media/card04.3430375658fcb68029bc.jpg",
+    "static/media/bcg02.jpg": "/static/media/bcg02.a8a420d770522f5810bc.jpg",
+    "static/media/card09.jpg": "/static/media/card09.0d307f7dfdd34c1ecf52.jpg",
+    "static/media/carousel03.jpg": "/static/media/carousel03.fb00153342d551cc5c57.jpg",
+    "static/media/bcg01.jpg": "/static/media/bcg01.f82578fd4021676532ba.jpg",
+    "index.html": "/index.html",
+    "main.6a367798.css.map": "/static/css/main.6a367798.css.map",
+    "main.0290180b.js.map": "/static/js/main.0290180b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a367798.css",
+    "static/js/main.0290180b.js"
+  ]
+}
